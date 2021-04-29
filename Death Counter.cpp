@@ -8,7 +8,7 @@ using namespace std;
 
 
 bool KEY[256];
-const char name[] = "Death Counter.txt";
+const char name[] = "Counter Death.txt";
 
 
 void GetKEY()
