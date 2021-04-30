@@ -10,4 +10,4 @@
 # P.S
 Для лучшего отображения текста нужно увеличить количество строк в тех же настройках. 
 # Видео гайд
-https://youtu.be/8_JJTDS4xoA
+https://img.youtube.com/vi/https://youtu.be/8_JJTDS4xoA
